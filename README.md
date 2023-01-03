@@ -1,7 +1,9 @@
 <h1>Hi, I'm Xavier! 
+  
+####  Aspiring IT professional with 4 years' experience in customer service and a passion for solving problems. Developing my technical skills through self-study to obtain certifications and building home labs. My interests within IT is Automation, Security, and Cloud Computing.
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Xavierj10/ActiveDirectoryHomelab)
+  - [Active Directory Home Lab](https://github.com/Xavierj10/ActiveDirectoryHomelab)
   
 <h2> Certifications</h2>
 
