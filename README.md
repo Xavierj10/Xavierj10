@@ -1,7 +1,7 @@
 <h1>Hi, I'm Xavier! 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Xavierj10/url)
+- [Active Directory Home Lab](https://github.com/Xavierj10/ActiveDirectoryHomelab)
   
 <h2> Certifications</h2>
 
