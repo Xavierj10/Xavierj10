@@ -4,6 +4,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Xavierj10/ActiveDirectoryHomelab)
+  - [Ticket Lifecycle Jira Lab](https://github.com/Xavierj10/TicketLifecycleJira)
   
 <h2> Certifications</h2>
 
